@@ -1,7 +1,7 @@
 <template>
-    <p>
+    <h1>
         la mia prima app con Vite
-    </p>
+    </h1>
 </template>
 
 <script>
